@@ -1,6 +1,6 @@
 # Hi I am Luke Singh, 
 ## Data Scientist
-My interests are in Data Mining, Statistical Modelling and Machine Learning, Artifactial intelligence, Deep Learning and Business Analyst. 
+My interests are in Data Mining, Statistical Modelling and Machine Learning, Artificial Intelligence, Deep Learning and Business Analyst. 
 
 
 <!---
