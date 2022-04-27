@@ -1,5 +1,5 @@
 # Hi I am Luke Singh, 
-## I am a graduate data scientist
+## Data Scientist
 My interests are in Data Mining, Statistical Modelling and Machine Learning, Artifactial intelligence, Deep Learning and Business Analyst. 
 
 
