@@ -8,7 +8,7 @@ Around 2019 I started to self teach myself python and found it much easier than 
 During this time I learnt HTML, CSS, and started to try game design by using Java.
 Around 2020 I started to learn about data science and slowly started to dive deeper into python.
 2021, I went to do a graduate diploma in data science.
-Currently in 2022, My hobby is making models, workign with AI or visualization to tell stories.
+Currently in 2022, I aim to get better in data science by creating more projects and focus on machine learning, deep learning and AI.
 ### My Most my work can be found in Python-projects
 
 <!---
