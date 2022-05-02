@@ -1,7 +1,7 @@
 # Hi I am Luke Singh, 
 ![datascience](https://user-images.githubusercontent.com/94107979/166178393-d7e4936d-2998-4da7-b3d2-4c81233e55f8.gif)
 ## Data Scientist
-My interests are in Data Mining, Statistical Modelling and Machine Learning, Artificial Intelligence, Deep Learning and Business Analyst. 
+I am proficient in Data Mining, Statistical Modelling and Machine Learning, Artificial Intelligence, Deep Learning and Business Analyst. 
 ## About Me
 I first Started programming in 2011, using C to make a windows calculator, since then I continued to program until 2013. 
 From 2014, I started to study engineering in which my days of coding had stopped until 2018 when I started to program again.
