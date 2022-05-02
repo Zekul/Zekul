@@ -3,13 +3,8 @@
 ## Data Scientist
 I am proficient in Data Mining, Statistical Modelling and Machine Learning, Artificial Intelligence, Deep Learning and Business Analyst. 
 ## About Me
-I first Started programming in 2011, using C to make a windows calculator, since then I continued to program until 2013. 
-From 2014, I started to study engineering in which my days of coding had stopped until 2018 when I started to program again.
-Around 2019 I started to self teach myself python and found it much easier than other languages.
-During this time I learnt HTML, CSS, and started to try game design by using Java.
-Around 2020 I started to learn about data science and slowly started to dive deeper into python.
-2021, I went to do a graduate diploma in data science.
-Currently in 2022, I aim to get better in data science by creating more projects and focus on machine learning, deep learning and AI.
+I am a solutions-driven professional with an Agile Mindset, strong customer focus,experience in analyzing data to identify issues and create models to find predictablepatterns. Ability to utilize both engineering and computation to solve issues and meetcustomer KPI requirements. Able to clearly communicate to stakeholders using bothw
+ritten and oral skills. Ensures the business meets the requirements by being detail-oriented. I have a strong affinity for data science, aiming to deliver quality data drivenresults, achieve goals and valuable insights to stakeholders.
 ### Most my work can be found in Python-projects
 
 
