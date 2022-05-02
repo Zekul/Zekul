@@ -1,4 +1,5 @@
 # Hi I am Luke Singh, 
+![datascience](https://user-images.githubusercontent.com/94107979/166178393-d7e4936d-2998-4da7-b3d2-4c81233e55f8.gif)
 ## Data Scientist
 My interests are in Data Mining, Statistical Modelling and Machine Learning, Artificial Intelligence, Deep Learning and Business Analyst. 
 ## About Me
@@ -10,6 +11,7 @@ Around 2020 I started to learn about data science and slowly started to dive dee
 2021, I went to do a graduate diploma in data science.
 Currently in 2022, I aim to get better in data science by creating more projects and focus on machine learning, deep learning and AI.
 ### Most my work can be found in Python-projects
+
 
 <!---
 Zekul/Zekul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
